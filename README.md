@@ -1,5 +1,5 @@
 # Portfolio Website✔
-
+![Alt text](https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cG9ydGZvbGlvfGVufDB8fDB8fHww)
 This repository contains the code for building a portfolio website using Next.js, Tailwind CSS, and Framer Motion. The website has six main pages: 
 <b>Home, About, Services, Work, Testimonials, and Contact.</b>
 
@@ -51,4 +51,4 @@ Make sure you have the following software installed:
    <em>npm run dev<em>
 <b>This will start the development server on http://localhost:3000<b>
 
-![Alt text](https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cG9ydGZvbGlvfGVufDB8fDB8fHww.jpg)
+
